@@ -1,0 +1,31 @@
+#heading{
+    color: orangered;
+    font-size: 35px;
+    text-align: center;
+    }
+    #heading2{
+    color: lightcoral;
+    text-align: center;
+    font-size: 30px;
+    }
+    
+    div{
+        text-align: center;
+    }
+    
+    #Summer{
+    text-align: center;
+    color: lightsalmon;
+    font-size: 50px;
+    }
+    
+    #Picnic {
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+    }
+    p{
+    font: size 20px;
+    background-color: orangered;
+    color: white;
+    }
